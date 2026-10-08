@@ -187,6 +187,26 @@ standard library and that is deliberate.
 
 ---
 
+## Need this built around your own rules?
+
+`keepscore` is the measuring piece of a larger system I run for my own trading.
+If you trade your own capital, have your rules written down, and want to know
+whether they work — and whether you are helping or hurting them — I build that
+for individual traders.
+
+- **Rule audit:** I encode your written rules, run them live for 30 days, and
+  you get one report: does the strategy hold up, and does your own selection of
+  trades add to it or subtract from it.
+- **Full build:** the scanner, your rules, alerts and the honest record, on
+  your own server.
+
+What I don't do: place orders, hold anyone's funds, or promise returns. The
+system measures; it does not trade for you.
+
+Message me on [LinkedIn](https://www.linkedin.com/in/shahab-jalali-339249434/).
+
+---
+
 MIT. Pulled out of JARVIS, my own trading system, where it decides which of the
 agents' claims are allowed to affect anything.
 
